@@ -1,0 +1,6 @@
+in ( " chiêu cao tam giac la: " )
+a = int ( đầu vào ())
+in ( " canh ngày tuong ung là: " )
+b = int ( đầu vào ())
+S = float (a * b / 2 )
+in ( " dien tich tam giac là: " + str (S))
